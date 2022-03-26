@@ -3,7 +3,7 @@ import "../../static/style.scss";
 
 const Task1 = () => {
     return (
-        <div className="hidden" id="t1">
+        <div id="t1" className="hidden">
             Task1
         </div>
     )

@@ -21,6 +21,11 @@
     top: 0;
     right: 0;
   }
+  video {
+    width: 100vw;
+    height: 48vh;
+    object-fit: cover;
+  }
 }
 
 .awesome-btn {
@@ -53,6 +58,12 @@
   > div:active {
     transition: 0s;
     box-shadow: none;
+  }
+  .activator {
+    background: linear-gradient(to right, purple, brown);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 }
 
