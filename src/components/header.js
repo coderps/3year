@@ -32,7 +32,7 @@ const Header = () => {
             );
             if (newUs >= 13) {
                 sleep(100).then(() => {
-                    document.getElementById("vid").currentTime = 15;
+                    document.getElementById("vid").currentTime = parseInt(Math.random() * 100);
                 });
             }
         }, 9000);
