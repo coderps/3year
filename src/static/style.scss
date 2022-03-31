@@ -75,7 +75,10 @@
   text-align: justify;
   position: absolute;
   margin-left: 25%;
-  margin-top: 5%;
+  margin-top: 3%;
+  height: 18vh;
+  overflow: hidden;
+  overflow-y: scroll;
 }
 
 #t1,
@@ -83,7 +86,7 @@
 #t3,
 #t4,
 #t5 {
-  max-height: 20vh;
+  height: 15vh;
   overflow: hidden;
   overflow-y: scroll;
 }
@@ -116,7 +119,7 @@
 
 .standard-shift {
   position: absolute;
-  height: 70px;
+  max-height: 70px;
   margin-top: -50px;
 }
 

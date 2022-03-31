@@ -34,13 +34,11 @@ const NavBtns = () => {
             : <span>{days}d {hours}h {minutes}m {seconds}s</span>;
     };
 
-    //April 03, 2022 00:00:00
-
     return (
         <div className="navBtns">
             <div>
                 <div>Jiaaa in:</div>
-                <Countdown date={new Date("March 26, 2022 20:53:00")} renderer={renderer1}/>
+                <Countdown date={new Date("April 03, 2022 00:00:00")} renderer={renderer1}/>
             </div>
             <div>
                 <div>Jiaaa in:</div>
