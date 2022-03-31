@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/3year/static/css/main.3e443be3.css",
+    "main.js": "/3year/static/js/main.8f7d0eda.js",
+    "static/js/787.768d1065.chunk.js": "/3year/static/js/787.768d1065.chunk.js",
+    "static/media/wedding.mp4": "/3year/static/media/wedding.ea641ec76d61c4af9ad9.mp4",
+    "static/media/us6.jpg": "/3year/static/media/us6.a8a1b8909933248f6412.jpg",
+    "static/media/us1.jpg": "/3year/static/media/us1.8876533fbc0dcbfa5317.jpg",
+    "static/media/us7.jpg": "/3year/static/media/us7.285433e0de00a21b1893.jpg",
+    "static/media/us8.jpg": "/3year/static/media/us8.da519d8ada565a1bae38.jpg",
+    "static/media/us10.jpg": "/3year/static/media/us10.73b96af10ca7356efb27.jpg",
+    "static/media/us12.jpg": "/3year/static/media/us12.179bbdce9acd8e9d2efd.jpg",
+    "static/media/us13.jpg": "/3year/static/media/us13.9cf777637058af97f742.jpg",
+    "static/media/us11.jpg": "/3year/static/media/us11.5c094e9f2d58ff21ddb8.jpg",
+    "static/media/us2.jpg": "/3year/static/media/us2.4f11baf81ba905c487f5.jpg",
+    "static/media/us9.jpg": "/3year/static/media/us9.0509c86e6691d644fce7.jpg",
+    "static/media/human.png": "/3year/static/media/human.30598afdc69de3173f61.png",
+    "static/media/us4.jpg": "/3year/static/media/us4.6d5070d9ebf3723a4dbe.jpg",
+    "static/media/us5.jpg": "/3year/static/media/us5.a0cb8fe18ab7004bd3df.jpg",
+    "static/media/us3.jpg": "/3year/static/media/us3.689e9cbb4cd361a4e2ea.jpg",
+    "static/media/bigbang.png": "/3year/static/media/bigbang.f98e7cd13b5e297676da.png",
+    "static/media/dino.png": "/3year/static/media/dino.2c23e3026fe051473e4b.png",
+    "index.html": "/3year/index.html",
+    "main.3e443be3.css.map": "/3year/static/css/main.3e443be3.css.map",
+    "main.8f7d0eda.js.map": "/3year/static/js/main.8f7d0eda.js.map",
+    "787.768d1065.chunk.js.map": "/3year/static/js/787.768d1065.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e443be3.css",
+    "static/js/main.8f7d0eda.js"
+  ]
+}
